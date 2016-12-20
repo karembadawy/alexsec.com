@@ -1,5 +1,5 @@
 (function() {
-        var target_date = new Date("Jan 1, 2014").getTime();
+        var target_date = new Date("Aug 1, 2017").getTime();
          
         var days, hours, minutes, seconds, countdown = document.getElementById("countdown");
          
